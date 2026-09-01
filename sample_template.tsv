@@ -1,0 +1,5 @@
+condition	sample	bam
+untreated	rep1	/path/to/untreated_rep1.sorted.nuc.bam
+untreated	rep2	/path/to/untreated_rep2.sorted.nuc.bam
+treated	rep1	/path/to/treated_rep1.sorted.nuc.bam
+treated	rep2	/path/to/treated_rep2.sorted.nuc.bam
